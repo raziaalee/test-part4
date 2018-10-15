@@ -1,0 +1,37 @@
+.card-header{
+	color: black;
+}
+.price{
+	color: gray;
+}
+.card-text{
+	color: blue;
+
+}
+span{
+	color: red;
+	display: flex;
+}
+article{
+	 display: flex;
+	
+}
+.card-header{
+	height: 10px;
+	width: 20px;
+}
+
+.card{
+	padding: 16px;
+
+}
+.first-div{
+	display: flex;
+	
+}
+.second-div{
+	display: flex;
+}
+.third-div{
+	display: flex;
+}
